@@ -1,0 +1,39 @@
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.old
+*.log
+
+# Arquivos gerados pelo VB6
+*.exe
+*.dll
+*.ocx
+*.obj
+*.o
+*.res
+*.exp
+*.lib
+
+# Arquivos de compilação e execução
+*.pdb
+*.ilk
+*.pch
+
+# Arquivos de usuário e configurações locais
+*.vbw
+*.suo
+*.user
+
+# Arquivos temporários do Visual Studio / VB6
+*.scc
+*.vbp~
+*.frm~
+*.bas~
+*.cls~
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+desktop.ini
